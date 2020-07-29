@@ -225,6 +225,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Dollar Shave Club](https://www.dollarshaveclub.com) | Venice, California | Phone interview, take-home projects, on-site interview
 - [door2door](http://door2door.io) | Berlin, Germany | Take home challenge + on-site interview + trial day
 - [DoorDash :runner::dash:](https://doordash.com/careers) | San Francisco, CA | Take home project + an on-site interview building off the project!
+- [Draftbit](https://draftbit.com) | Chicago, Illinois; Remote | Take home project + remote pair programming building off that project + interviews with team members
 - [Draft Fantasy](https://docs.google.com/document/d/1fC_-liTPpYQOoE_5iKj0O3AwSdPggQGnOsjUKahfbkQ/edit?usp=sharing) | Tel Aviv, Israel | Talk about past experience and what the developer has actually built as well as pair programming or a programming exercise.
 - [Drawbotics](https://www.drawbotics.com/en/join-us) | Brussels, Belgium | Take-home project, bootcamp on-site
 - [drchrono](https://www.drchrono.com/careers) | Mountain View, CA | Hackerrank test (but not CS trivia, it's real product problems) & on-site/take-home project w/ presentation
